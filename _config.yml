@@ -16,7 +16,7 @@
 title: Guys & Dolls
 email: info@guys-dolls.se
 description: > # this means to ignore newlines until "baseurl:"
-  Din frisörsalong i Boden. Vi säljer produkter från
+  Din frisörsalong i Boden. Vi säljer produkter från Davines.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.guys-dolls.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guysdolls
