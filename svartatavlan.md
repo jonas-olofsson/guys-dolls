@@ -2,6 +2,7 @@
 layout: page
 title: Svarta Tavlan
 permalink: /svartatavlan
+menu_position: 2
 ---
   <ul class="post-list">
     {% for post in site.posts %}

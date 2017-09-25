@@ -1,0 +1,31 @@
+---
+---
+@import "minima";
+
+.site-header-new {
+  border-bottom: 5px solid #424242;
+  border-top: 1px solid #e8e8e8;
+}
+
+.page-link {
+  font-family: Raleway,sans-serif;
+  font-size: 16px;
+}
+
+.page-content {
+  font-family: 'Lato';
+}
+
+.home-banner {
+  border: 5px solid black;
+}
+
+.produkt-bild {
+  padding: 10px 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .site-title img {
+    max-width: 80%;
+  }
+}

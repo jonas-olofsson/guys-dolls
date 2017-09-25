@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<br/>
+Vårt hjärta ligger i att bevara och utveckla skönhet.
+
+Med influenser av dagens tidsanda och tidlösa klassiker skapar vi en skön atmosfär och medveten salong med inspiration från mode, historia, kultur, konst och design.
+
+Välkommen in!
